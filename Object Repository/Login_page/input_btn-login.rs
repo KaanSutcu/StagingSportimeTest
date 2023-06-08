@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_btn-login</name>
+   <tag></tag>
+   <elementGuidId>14b0333e-a509-41b0-b3de-3829e26af141</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Giriş Yap']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-primary.d-block.w-100.btn-lg.btn-login</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0e59e217-a75a-47fb-9894-6fef5e992ee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary d-block w-100 btn-lg btn-login</value>
+      <webElementGuid>c12c55be-0acc-418b-a93d-2999070d536a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>16908103-7d16-4a35-a602-8d6f923809ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Giriş Yap</value>
+      <webElementGuid>fc97bc0b-b156-4cb2-8505-600ae16da648</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LoginForm&quot;)/div[@class=&quot;card-body&quot;]/div[1]/div[@class=&quot;row mb-0&quot;]/div[@class=&quot;buttons&quot;]/input[@class=&quot;btn btn-primary d-block w-100 btn-lg btn-login&quot;]</value>
+      <webElementGuid>012b9528-c03e-45e6-9390-48ad95b2e74d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Giriş Yap']</value>
+      <webElementGuid>6f724582-b8b7-4de5-a7f3-ec71aec9d48b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='LoginForm']/div/div/div[3]/div[4]/input</value>
+      <webElementGuid>f63308cb-f08f-49ac-b9af-473f98184680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[4]/input</value>
+      <webElementGuid>c8da14c0-b21d-4758-b234-4c3e75d69632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>51e7d459-b503-4c53-b1dd-237e7ed1f963</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

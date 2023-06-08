@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sepete Ekle</name>
+   <tag></tag>
+   <elementGuidId>a7c2e82a-0085-4e88-8c0a-fdb7b4037a91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#add-to-cart-button-584930a0-170f-42fe-a339-066f0484479f > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='add-to-cart-button-584930a0-170f-42fe-a339-066f0484479f']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3207c0d1-c724-47e1-b04a-892f37301977</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sepete Ekle</value>
+      <webElementGuid>18db5f91-d838-4375-927b-9bf29963761b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-to-cart-button-584930a0-170f-42fe-a339-066f0484479f&quot;)/span[1]</value>
+      <webElementGuid>968b2135-0a95-40ec-b54b-3fe2082a3f3f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='add-to-cart-button-584930a0-170f-42fe-a339-066f0484479f']/span</value>
+      <webElementGuid>6e49d095-5e28-4685-a16f-35576282438d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beden Tablosu'])[1]/following::span[9]</value>
+      <webElementGuid>b5de5e46-34b1-443c-b690-846b3204fbaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DJ0292-101'])[1]/following::span[9]</value>
+      <webElementGuid>2cc9fb08-b907-4b13-9c37-23412382b72a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stoka Gelince Haber Ver'])[1]/preceding::span[1]</value>
+      <webElementGuid>8a2cbb18-a414-48ce-819c-21d7bf0473a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sepete Ekle']/parent::*</value>
+      <webElementGuid>1dcc7f16-72e0-40e5-ac78-a566fb0d27fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/button/span</value>
+      <webElementGuid>3e35b430-32ff-4dec-82c4-ccb3bedf6870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sepete Ekle' or . = 'Sepete Ekle')]</value>
+      <webElementGuid>cc054952-94f2-4289-8f9c-6b77015530da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

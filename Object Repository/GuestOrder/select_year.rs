@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_year</name>
+   <tag></tag>
+   <elementGuidId>88ecb091-b72e-49d0-8e61-928fbfb8ff94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ExpireYearWrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ExpireYearWrapper']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>eddf0971-9a8f-4aee-8f24-f86a62ba1c51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ExpireYearWrapper</value>
+      <webElementGuid>eea5afc8-f475-452e-a591-8b2151e09b70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control col-md-6 col-12</value>
+      <webElementGuid>94a5ddc4-de11-40fe-8400-8040df2349ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Son kullanma yıl</value>
+      <webElementGuid>06a63545-b707-4a65-ab2d-60be893e8bd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                          
+                                        2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+2036
+2037
+</value>
+      <webElementGuid>1f267acb-5161-40aa-aaba-b3606f042be8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ExpireYearWrapper&quot;)</value>
+      <webElementGuid>2b480b4f-d9c7-472a-9c69-969c8e0998b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ExpireYearWrapper']</value>
+      <webElementGuid>87c473be-57ce-4ecf-97a6-19cdc7981ae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='IyzicoCreditCardInfoModel']/div/div/div/div[3]/div/div[2]/div/select</value>
+      <webElementGuid>39d8f176-c4eb-4333-9ac2-db88f522c021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Son kullanma ay'])[1]/following::select[1]</value>
+      <webElementGuid>56a898d0-e53d-438c-b680-cddb5ef9eb3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kart numarası:'])[1]/following::select[2]</value>
+      <webElementGuid>c2dcd5b2-14ec-425d-a959-6de25371e1bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Son kullanma yıl'])[1]/preceding::select[1]</value>
+      <webElementGuid>08c93be5-577f-4f0c-a948-b02c684012c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Güvenlik Kodu:'])[1]/preceding::select[1]</value>
+      <webElementGuid>6a297e1b-81b8-4e68-84b0-09301063dbcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/select</value>
+      <webElementGuid>9b2216a5-577f-4a90-9762-75dff64902ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ExpireYearWrapper' and (text() = '
+                                          
+                                        2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+2036
+2037
+' or . = '
+                                          
+                                        2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+2036
+2037
+')]</value>
+      <webElementGuid>9c798ec7-f634-45f4-8177-30b2287a3c32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

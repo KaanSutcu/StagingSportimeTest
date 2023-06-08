@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_year</name>
+   <tag></tag>
+   <elementGuidId>6c397fc0-9b98-4472-ab4c-305b39dece59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='DateOfBirthYear']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;DateOfBirthYear&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2e4ba82a-7b4f-44db-a925-b570ad4302b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>DateOfBirthYear</value>
+      <webElementGuid>0c893f31-a7bb-4e2d-a78d-e5937e164c9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-select dateHelper</value>
+      <webElementGuid>0e6ebd0d-7a45-489e-82ba-daef05ac4152</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yıl
+1923
+1924
+1925
+1926
+1927
+1928
+1929
+1930
+1931
+1932
+1933
+1934
+1935
+1936
+1937
+1938
+1939
+1940
+1941
+1942
+1943
+1944
+1945
+1946
+1947
+1948
+1949
+1950
+1951
+1952
+1953
+1954
+1955
+1956
+1957
+1958
+1959
+1960
+1961
+1962
+1963
+1964
+1965
+1966
+1967
+1968
+1969
+1970
+1971
+1972
+1973
+1974
+1975
+1976
+1977
+1978
+1979
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+</value>
+      <webElementGuid>725a21ab-2e20-45c4-9340-496daeb6d65b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RegisterForm&quot;)/div[@class=&quot;card-body&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 mb-4&quot;]/div[1]/select[@class=&quot;custom-select dateHelper&quot;]</value>
+      <webElementGuid>a90ded91-98cb-4314-966c-67da882fd7e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='DateOfBirthYear']</value>
+      <webElementGuid>f23170bb-b9ab-43b6-926b-704a7621624d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='RegisterForm']/div/div/div[2]/div[7]/div/select[3]</value>
+      <webElementGuid>6b2852bd-479b-4caf-a417-8043141d1ba8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doğum tarihi:'])[1]/following::select[3]</value>
+      <webElementGuid>c8dc7e5e-3faa-4653-b579-700cff29e1e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Erkek'])[2]/following::select[3]</value>
+      <webElementGuid>e33f4d29-a4b2-47c9-a4b2-f65848c759b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Üyelik Sözleşmesi'])[1]/preceding::select[1]</value>
+      <webElementGuid>2d7c47c1-cb15-4d3f-940a-c590e750ae5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select[3]</value>
+      <webElementGuid>3be7b93b-dd14-44ba-bea4-3a6ca5a107d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'DateOfBirthYear' and (text() = 'Yıl
+1923
+1924
+1925
+1926
+1927
+1928
+1929
+1930
+1931
+1932
+1933
+1934
+1935
+1936
+1937
+1938
+1939
+1940
+1941
+1942
+1943
+1944
+1945
+1946
+1947
+1948
+1949
+1950
+1951
+1952
+1953
+1954
+1955
+1956
+1957
+1958
+1959
+1960
+1961
+1962
+1963
+1964
+1965
+1966
+1967
+1968
+1969
+1970
+1971
+1972
+1973
+1974
+1975
+1976
+1977
+1978
+1979
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+' or . = 'Yıl
+1923
+1924
+1925
+1926
+1927
+1928
+1929
+1930
+1931
+1932
+1933
+1934
+1935
+1936
+1937
+1938
+1939
+1940
+1941
+1942
+1943
+1944
+1945
+1946
+1947
+1948
+1949
+1950
+1951
+1952
+1953
+1954
+1955
+1956
+1957
+1958
+1959
+1960
+1961
+1962
+1963
+1964
+1965
+1966
+1967
+1968
+1969
+1970
+1971
+1972
+1973
+1974
+1975
+1976
+1977
+1978
+1979
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+')]</value>
+      <webElementGuid>88b7b7d8-b8bb-46ec-985b-208855d3feaf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

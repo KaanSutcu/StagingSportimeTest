@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_city</name>
+   <tag></tag>
+   <elementGuidId>980caa47-b7ac-40f4-a333-600de4424f8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ShippingNewAddress_CityId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ShippingNewAddress_CityId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>26ea7b6e-b471-46f4-93f0-3cf3bd5e1862</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select form-control</value>
+      <webElementGuid>5d8288c8-bd5a-4d8d-9e8f-dc8e2dd56903</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5426f7af-f250-41d9-a7d4-b9da8aed81d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>The CityId field is required.</value>
+      <webElementGuid>7e19f5d6-99cb-402e-8afe-57d1b093d93a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ShippingNewAddress_CityId</value>
+      <webElementGuid>6cdf2140-edb9-4bee-b106-892253480b75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ShippingNewAddress.CityId</value>
+      <webElementGuid>b06d2ef9-d2f2-4e23-90f3-a2e459b59234</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>İl Seç
+ADANA
+ADIYAMAN
+AFYONKARAHİSAR
+AĞRI
+AKSARAY
+AMASYA
+ANKARA
+ANTALYA
+ARDAHAN
+ARTVİN
+AYDIN
+BALIKESİR
+BARTIN
+BATMAN
+BAYBURT
+BİLECİK
+BİNGÖL
+BİTLİS
+BOLU
+BURDUR
+BURSA
+ÇANAKKALE
+ÇANKIRI
+ÇORUM
+DENİZLİ
+DİYARBAKIR
+DÜZCE
+EDİRNE
+ELAZIĞ
+ERZİNCAN
+ERZURUM
+ESKİŞEHİR
+GAZİANTEP
+GİRESUN
+GÜMÜŞHANE
+HAKKARİ
+HATAY
+IĞDIR
+ISPARTA
+İSTANBUL
+İZMİR
+KAHRAMANMARAŞ
+KARABÜK
+KARAMAN
+KARS
+KASTAMONU
+KAYSERİ
+KIRIKKALE
+KIRKLARELİ
+KIRŞEHİR
+KİLİS
+KOCAELİ
+KONYA
+KÜTAHYA
+MALATYA
+MANİSA
+MARDİN
+MERSİN
+MUĞLA
+MUŞ
+NEVŞEHİR
+NİĞDE
+ORDU
+OSMANİYE
+RİZE
+SAKARYA
+SAMSUN
+SİİRT
+SİNOP
+SİVAS
+ŞANLIURFA
+ŞIRNAK
+TEKİRDAĞ
+TOKAT
+TRABZON
+TUNCELİ
+UŞAK
+VAN
+YALOVA
+YOZGAT
+ZONGULDAK
+</value>
+      <webElementGuid>b9e2b9e6-9091-440e-9513-be1a34c663c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ShippingNewAddress_CityId&quot;)</value>
+      <webElementGuid>4a2777d7-431a-42f3-833b-a15b5dbb29af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ShippingNewAddress_CityId']</value>
+      <webElementGuid>e58621b1-b44b-4ae8-ab7c-26454b03efcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='shipAddress']/div/div/div/div[8]/select</value>
+      <webElementGuid>a383767c-5edf-44bd-89f2-f3480b1801c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ülke:'])[1]/following::select[1]</value>
+      <webElementGuid>a63a008b-1529-46b4-9835-a5f915d6126d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Telefon:'])[1]/following::select[2]</value>
+      <webElementGuid>90fe6746-b908-4cf7-93b4-14c3f1c4c8fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='İl:'])[1]/preceding::select[1]</value>
+      <webElementGuid>ded92454-0e84-45bf-a16e-2be23e5f052c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='İlçe:'])[1]/preceding::select[2]</value>
+      <webElementGuid>03f72770-87b2-47c6-b376-741ae380e65a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/select</value>
+      <webElementGuid>d71dbfd6-9d54-40ed-b54f-c04470a7bc99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ShippingNewAddress_CityId' and @name = 'ShippingNewAddress.CityId' and (text() = 'İl Seç
+ADANA
+ADIYAMAN
+AFYONKARAHİSAR
+AĞRI
+AKSARAY
+AMASYA
+ANKARA
+ANTALYA
+ARDAHAN
+ARTVİN
+AYDIN
+BALIKESİR
+BARTIN
+BATMAN
+BAYBURT
+BİLECİK
+BİNGÖL
+BİTLİS
+BOLU
+BURDUR
+BURSA
+ÇANAKKALE
+ÇANKIRI
+ÇORUM
+DENİZLİ
+DİYARBAKIR
+DÜZCE
+EDİRNE
+ELAZIĞ
+ERZİNCAN
+ERZURUM
+ESKİŞEHİR
+GAZİANTEP
+GİRESUN
+GÜMÜŞHANE
+HAKKARİ
+HATAY
+IĞDIR
+ISPARTA
+İSTANBUL
+İZMİR
+KAHRAMANMARAŞ
+KARABÜK
+KARAMAN
+KARS
+KASTAMONU
+KAYSERİ
+KIRIKKALE
+KIRKLARELİ
+KIRŞEHİR
+KİLİS
+KOCAELİ
+KONYA
+KÜTAHYA
+MALATYA
+MANİSA
+MARDİN
+MERSİN
+MUĞLA
+MUŞ
+NEVŞEHİR
+NİĞDE
+ORDU
+OSMANİYE
+RİZE
+SAKARYA
+SAMSUN
+SİİRT
+SİNOP
+SİVAS
+ŞANLIURFA
+ŞIRNAK
+TEKİRDAĞ
+TOKAT
+TRABZON
+TUNCELİ
+UŞAK
+VAN
+YALOVA
+YOZGAT
+ZONGULDAK
+' or . = 'İl Seç
+ADANA
+ADIYAMAN
+AFYONKARAHİSAR
+AĞRI
+AKSARAY
+AMASYA
+ANKARA
+ANTALYA
+ARDAHAN
+ARTVİN
+AYDIN
+BALIKESİR
+BARTIN
+BATMAN
+BAYBURT
+BİLECİK
+BİNGÖL
+BİTLİS
+BOLU
+BURDUR
+BURSA
+ÇANAKKALE
+ÇANKIRI
+ÇORUM
+DENİZLİ
+DİYARBAKIR
+DÜZCE
+EDİRNE
+ELAZIĞ
+ERZİNCAN
+ERZURUM
+ESKİŞEHİR
+GAZİANTEP
+GİRESUN
+GÜMÜŞHANE
+HAKKARİ
+HATAY
+IĞDIR
+ISPARTA
+İSTANBUL
+İZMİR
+KAHRAMANMARAŞ
+KARABÜK
+KARAMAN
+KARS
+KASTAMONU
+KAYSERİ
+KIRIKKALE
+KIRKLARELİ
+KIRŞEHİR
+KİLİS
+KOCAELİ
+KONYA
+KÜTAHYA
+MALATYA
+MANİSA
+MARDİN
+MERSİN
+MUĞLA
+MUŞ
+NEVŞEHİR
+NİĞDE
+ORDU
+OSMANİYE
+RİZE
+SAKARYA
+SAMSUN
+SİİRT
+SİNOP
+SİVAS
+ŞANLIURFA
+ŞIRNAK
+TEKİRDAĞ
+TOKAT
+TRABZON
+TUNCELİ
+UŞAK
+VAN
+YALOVA
+YOZGAT
+ZONGULDAK
+')]</value>
+      <webElementGuid>f9cf6a5b-900d-49a4-8390-59097a739ffa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

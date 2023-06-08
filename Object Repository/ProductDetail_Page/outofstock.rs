@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>outofstock</name>
+   <tag></tag>
+   <elementGuidId>f097ed9e-fa01-4a1e-b059-80a9ae357f54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.outofstock > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product_attribute_input_8e0b631f-8e71-44a1-9189-6be895e45456']/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7245b892-361e-47a4-ad70-01f5ffdda6e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>36.5</value>
+      <webElementGuid>19cef007-87b1-48d6-bc40-32cea4e306ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product_attribute_input_8e0b631f-8e71-44a1-9189-6be895e45456&quot;)/label[@class=&quot;outofstock&quot;]/span[1]</value>
+      <webElementGuid>4a6f39b6-1605-40eb-a799-c18659acf0fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product_attribute_input_8e0b631f-8e71-44a1-9189-6be895e45456']/label/span</value>
+      <webElementGuid>5e5776ea-bd86-4771-985b-84fe7234c30c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beden Tablosu'])[1]/following::span[1]</value>
+      <webElementGuid>63df14f0-6a46-4ebd-bebd-6c00dee5b652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DJ0292-101'])[1]/following::span[1]</value>
+      <webElementGuid>1d026adb-2d3a-41aa-8b16-b9fad7fc8537</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sepete Ekle'])[1]/preceding::span[8]</value>
+      <webElementGuid>d2b73e59-b8e2-4a19-bb8e-33102a75824d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stoka Gelince Haber Ver'])[1]/preceding::span[9]</value>
+      <webElementGuid>8cbfeb2f-5ad1-463b-922f-25d6013d15a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='36.5']/parent::*</value>
+      <webElementGuid>076a96be-ad13-44d3-a105-9929429a504c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>17cfd21e-6e26-4e91-adc9-0de71650e9e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '36.5' or . = '36.5')]</value>
+      <webElementGuid>4dec2a91-b0b3-46d2-8703-0140a9efbc45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

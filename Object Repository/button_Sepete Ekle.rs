@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sepete Ekle</name>
+   <tag></tag>
+   <elementGuidId>59d20948-e113-4c3e-8cd8-e9fe977ded1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#add-to-cart-button-64646733-2944-4db3-ba27-a125a361f71b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='add-to-cart-button-64646733-2944-4db3-ba27-a125a361f71b']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5a1d3a3b-a928-480f-9da8-c7f6837fb1ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ce6467db-88c8-400e-8f85-5101a10953f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>add-to-cart-button-64646733-2944-4db3-ba27-a125a361f71b</value>
+      <webElementGuid>4487af1b-15a7-44d7-9933-4e9db40023b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-lg add-to-cart-button</value>
+      <webElementGuid>ecffa60a-ac5e-4b40-9de9-e085e1728ac1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-productid</name>
+      <type>Main</type>
+      <value>64646733-2944-4db3-ba27-a125a361f71b</value>
+      <webElementGuid>69ed7bb0-092c-4080-9a40-f4827aff66cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>AjaxCart.addproducttocart_details('/addproducttocart/details/64646733-2944-4db3-ba27-a125a361f71b/1', '#product-details-form');return false;</value>
+      <webElementGuid>a9e4dd67-224b-43c7-906e-1ff2b8fb8786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Sepete Ekle
+                </value>
+      <webElementGuid>e799341c-ba30-4327-8482-da2e5d287984</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-to-cart-button-64646733-2944-4db3-ba27-a125a361f71b&quot;)</value>
+      <webElementGuid>f37746f8-9674-4892-addc-b297a418fd7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='add-to-cart-button-64646733-2944-4db3-ba27-a125a361f71b']</value>
+      <webElementGuid>eb2b69d4-fb79-4e1a-8047-84e1a7f28c36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='product-details-form']/div/div[2]/div[4]/div/div/button</value>
+      <webElementGuid>be21546f-ea4c-47dd-8c13-531de7be6bc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beden Tablosu'])[1]/following::button[1]</value>
+      <webElementGuid>2f029ba5-fd7b-47eb-9d93-10c1ccdc9632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ürün Kodu:'])[1]/following::button[1]</value>
+      <webElementGuid>72032475-b838-4176-96f1-3fa23eb3eb17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stoka Gelince Haber Ver'])[1]/preceding::button[1]</value>
+      <webElementGuid>b71c5071-6b53-4911-8ffb-869330753eef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/button</value>
+      <webElementGuid>99edf401-9d1f-40e6-a996-86d7539dfccf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'add-to-cart-button-64646733-2944-4db3-ba27-a125a361f71b' and (text() = '
+                    Sepete Ekle
+                ' or . = '
+                    Sepete Ekle
+                ')]</value>
+      <webElementGuid>5c38bd23-51f6-44c0-bbcb-13650afd0bd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

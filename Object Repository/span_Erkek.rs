@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Erkek</name>
+   <tag></tag>
+   <elementGuidId>43e8f499-de65-47b0-a863-443361da33ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.breadcrumb-item > a > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='site-body']/div/div/div/div/nav/ol/li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a6d3b072-7a50-4281-9eaa-d93d89c5c074</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemprop</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>db8b2b73-905a-43a0-8b54-533d3fc34348</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Erkek</value>
+      <webElementGuid>98237d46-8350-40ce-8f87-9602a7fbf832</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-body&quot;)/div[@class=&quot;category-banner&quot;]/div[@class=&quot;page-header&quot;]/div[@class=&quot;page-header__container container&quot;]/div[@class=&quot;page-header__breadcrumb&quot;]/nav[1]/ol[@class=&quot;breadcrumb&quot;]/li[@class=&quot;breadcrumb-item&quot;]/a[1]/span[1]</value>
+      <webElementGuid>6e6cba2d-7b0a-4eab-8c95-7e0639a0fd26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-body']/div/div/div/div/nav/ol/li[2]/a/span</value>
+      <webElementGuid>f2944929-42f4-4ca7-9301-b93df0f29377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ana sayfa'])[1]/following::span[1]</value>
+      <webElementGuid>d2a5987b-c0be-489f-ac25-42818b6148f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ayakkabı'])[4]/preceding::span[1]</value>
+      <webElementGuid>b32b77b0-00db-41ea-a546-bc2014bc0ffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol/li[2]/a/span</value>
+      <webElementGuid>fa40b7c0-8b05-418b-ae55-a463c43ff7b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Erkek' or . = 'Erkek')]</value>
+      <webElementGuid>9520f278-c056-4df0-911c-f34d251db774</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

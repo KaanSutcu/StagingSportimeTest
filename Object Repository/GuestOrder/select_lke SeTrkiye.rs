@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_lke SeTrkiye</name>
+   <tag></tag>
+   <elementGuidId>62d2396e-6994-4361-962d-606bf75dff80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ShippingNewAddress_CountryId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ShippingNewAddress_CountryId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d88e2d18-7f50-4fcc-8168-57e098c81efc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select form-control</value>
+      <webElementGuid>b88d1214-0ad1-4f61-9da3-8ddc786a6346</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>218e6582-4c24-488e-9851-51d7ddc9562d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>The CountryId field is required.</value>
+      <webElementGuid>0f88644d-3ad6-4337-bf41-6545a6321e7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ShippingNewAddress_CountryId</value>
+      <webElementGuid>76186d27-c017-44c3-839c-0940c8130bdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ShippingNewAddress.CountryId</value>
+      <webElementGuid>0a59b615-efad-42aa-aab3-2384862e8802</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ülke Seç
+Türkiye
+</value>
+      <webElementGuid>05df6988-22f4-41ef-bb58-a58e72e3fb76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ShippingNewAddress_CountryId&quot;)</value>
+      <webElementGuid>b3e44b64-1e57-4489-b505-83a1c09394a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ShippingNewAddress_CountryId']</value>
+      <webElementGuid>dc289acf-46d6-40ff-888d-62794e6f0384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='shipAddress']/div/div/div/div[7]/select</value>
+      <webElementGuid>7071d72b-7b59-43cc-9dba-dda543b99014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Telefon:'])[1]/following::select[1]</value>
+      <webElementGuid>9776d160-60c0-4577-a832-59e13d3866d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-Posta:'])[1]/following::select[1]</value>
+      <webElementGuid>1cba12aa-53fa-41ed-bfdd-95823476653a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ülke:'])[1]/preceding::select[1]</value>
+      <webElementGuid>b7085c9c-0f89-4440-9df0-f8aaba38c6d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='İl:'])[1]/preceding::select[2]</value>
+      <webElementGuid>88316132-230a-44bc-9504-4b4cdcca3dfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>5a6a3932-685c-4983-97c8-0f156712851a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ShippingNewAddress_CountryId' and @name = 'ShippingNewAddress.CountryId' and (text() = 'Ülke Seç
+Türkiye
+' or . = 'Ülke Seç
+Türkiye
+')]</value>
+      <webElementGuid>6dfbdfac-06d7-43ab-8ad5-f33049d009b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

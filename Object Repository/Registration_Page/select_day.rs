@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_day</name>
+   <tag></tag>
+   <elementGuidId>063e2802-c056-45fc-adb2-622a9413548f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='DateOfBirthDay']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'DateOfBirthDay' and (text() = 'Gün
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+' or . = 'Gün
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;DateOfBirthDay&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>8182654e-b7d0-4f1b-be4e-9e4a01957874</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>DateOfBirthDay</value>
+      <webElementGuid>233b5af0-e463-48b8-917e-1fe6dadfb25a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-select dateHelper</value>
+      <webElementGuid>e45b9ac6-6746-44ea-ac83-d9ba9bc44850</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gün
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+</value>
+      <webElementGuid>5ed00bbc-e40f-48cd-9cc2-2dc21225ec59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RegisterForm&quot;)/div[@class=&quot;card-body&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 mb-4&quot;]/div[1]/select[@class=&quot;custom-select dateHelper&quot;]</value>
+      <webElementGuid>90a4a50b-7f5c-483e-a01c-6fef6d945d15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='DateOfBirthDay']</value>
+      <webElementGuid>c3b3070c-5b01-4437-ad22-b1bd15104599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='RegisterForm']/div/div/div[2]/div[7]/div/select</value>
+      <webElementGuid>fd7e7d3c-405d-4228-babb-be9aec7fdb2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doğum tarihi:'])[1]/following::select[1]</value>
+      <webElementGuid>6a94b19c-1d26-4118-a027-2e4794ee78f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Erkek'])[2]/following::select[1]</value>
+      <webElementGuid>696368b7-327c-4c43-a077-1f3486736416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Üyelik Sözleşmesi'])[1]/preceding::select[3]</value>
+      <webElementGuid>4afbe873-ec5a-4920-8a71-f1f285282bb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>eaa7772e-97d1-4e0f-a29c-2af6f98c3155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'DateOfBirthDay' and (text() = 'Gün
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+' or . = 'Gün
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+')]</value>
+      <webElementGuid>f5f64fb9-0d94-4f60-9e0b-7e87150f2ca2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

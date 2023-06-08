@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menuButton</name>
+   <tag></tag>
+   <elementGuidId>7357acaf-29dd-4584-ba4c-1693bebe5035</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.d-none.d-sm-block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[4]/header/div/div/div/div/div/div[1]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>ee311dd9-1ebb-4045-98ee-fa66b5ced799</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>30px</value>
+      <webElementGuid>f0384e8e-1c67-4225-9b74-a139ea3574b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>17px</value>
+      <webElementGuid>21015987-0c4f-4ba8-ac4a-336f0bdc3c7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-none d-sm-block</value>
+      <webElementGuid>7b04a8db-d96a-49bc-99e8-164fef84dbfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;is-ready&quot;]/div[@class=&quot;site&quot;]/header[@class=&quot;site__header&quot;]/div[@class=&quot;site-header&quot;]/div[@class=&quot;site-header__nav-panel&quot;]/div[@class=&quot;nav-panel&quot;]/div[@class=&quot;nav-panel__container container&quot;]/div[@class=&quot;nav-panel__row&quot;]/div[@class=&quot;nav-panel__menu_opener&quot;]/button[@class=&quot;mobile-header__menu-button&quot;]/svg[@class=&quot;d-none d-sm-block&quot;]</value>
+      <webElementGuid>77903c6f-8bc9-499f-a30f-b897059923eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logo'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>3f36c71a-b180-4c2c-b6a6-99836ff5128b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kadın'])[1]/preceding::*[name()='svg'][12]</value>
+      <webElementGuid>82e9faa8-0904-4c97-a7d5-4aa8b8fd705c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sepete Git</name>
+   <tag></tag>
+   <elementGuidId>c91fa548-e85f-4975-b899-419f31ddb104</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-dark.w-100.d-flex.justify-content-center.mx-3.border-left-0.rounded-3.btn-lg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[65]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8d336601-61be-4b92-a40e-29f3730a575c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ae4db427-c9bd-4835-9055-84f11fcefeb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-dark w-100 d-flex justify-content-center mx-3 border-left-0 rounded-3 btn-lg</value>
+      <webElementGuid>4e204525-8b56-44b3-ac04-5bf70e5e659a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>setLocation('/cart')</value>
+      <webElementGuid>f9009227-3e4f-452c-9ca4-3b852b0590c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sepete Git</value>
+      <webElementGuid>c9bba25f-9562-415d-b49a-c84134ec3dff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ModalAddToCart&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;modal-footer px-0 pb-0 mt-0&quot;]/div[@class=&quot;btn-group col-8 px-0 mx-auto my-0&quot;]/button[@class=&quot;btn btn-dark w-100 d-flex justify-content-center mx-3 border-left-0 rounded-3 btn-lg&quot;]</value>
+      <webElementGuid>cea9cf0c-4f66-43b7-88ba-31120c6a52cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[65]</value>
+      <webElementGuid>4ea53035-dba3-4d37-83e7-c269f0f8ea47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ModalAddToCart']/div/div/div[2]/div[4]/div/button[2]</value>
+      <webElementGuid>1cdb1b8d-6baa-49ca-bf18-9ebcc030c0c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alışverişe Devam et'])[1]/following::button[1]</value>
+      <webElementGuid>c668a7dc-2eea-4d58-922a-30db07e743d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='›'])[5]/following::button[8]</value>
+      <webElementGuid>ad1e49b7-4ac6-426f-8269-08f64e8691cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sepete Git']/parent::*</value>
+      <webElementGuid>b4f09858-4c49-4e80-a4fa-cc942c122a3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button[2]</value>
+      <webElementGuid>b59d3e9a-6689-46ab-b460-dfcd7232c697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Sepete Git' or . = 'Sepete Git')]</value>
+      <webElementGuid>4930a930-dbeb-41c9-a4fd-cc3937b16298</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

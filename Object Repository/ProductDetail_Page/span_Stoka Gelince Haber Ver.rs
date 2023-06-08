@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Stoka Gelince Haber Ver</name>
+   <tag></tag>
+   <elementGuidId>88cc9b6d-ff0a-4dbf-967a-96ef26fec568</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#back-in-stock-subscribe-584930a0-170f-42fe-a339-066f0484479f > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='back-in-stock-subscribe-584930a0-170f-42fe-a339-066f0484479f']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>56a1395f-d1f4-4873-955c-61c0ae1401c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Stoka Gelince Haber Ver</value>
+      <webElementGuid>99a149bc-2b8d-4d3c-8a6e-aa57f0ae81a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;back-in-stock-subscribe-584930a0-170f-42fe-a339-066f0484479f&quot;)/span[1]</value>
+      <webElementGuid>301c0424-40d5-4019-92c0-c82bc741e4e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='back-in-stock-subscribe-584930a0-170f-42fe-a339-066f0484479f']/span</value>
+      <webElementGuid>638f65e4-5ab1-4d1a-8683-419f4d27da98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sepete Ekle'])[1]/following::span[1]</value>
+      <webElementGuid>7a32456c-bd43-4f66-acda-d11651535a0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beden Tablosu'])[1]/following::span[10]</value>
+      <webElementGuid>df66ac8f-00b7-4394-bbb3-9dbbbd43ba10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ürünü Paylaş'])[1]/preceding::span[1]</value>
+      <webElementGuid>5408f830-3234-4f71-a2cd-0c62a30a24e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Stoka Gelince Haber Ver']/parent::*</value>
+      <webElementGuid>5ae2a1d1-a7ec-410a-a8c2-233808216158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/div/div/div/button/span</value>
+      <webElementGuid>d076e035-977d-4271-9762-6bb4a95248a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Stoka Gelince Haber Ver' or . = 'Stoka Gelince Haber Ver')]</value>
+      <webElementGuid>3364fbc0-552e-4bd6-bd5b-8e579528f391</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

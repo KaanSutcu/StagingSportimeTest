@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HomePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d43b56fc-9012-4a17-99b7-b78fcef98515</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6120ccaf-1f7f-43ee-a65f-38a2ab893ab6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://staging.sportime.com.tr/'</defaultValue>
+      <description></description>
+      <id>6120ccaf-1f7f-43ee-a65f-38a2ab893ab6</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+</TestCaseEntity>
