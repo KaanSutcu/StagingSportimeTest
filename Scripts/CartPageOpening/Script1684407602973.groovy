@@ -23,7 +23,7 @@ WebUI.click(findTestObject('cart_icon'))
 
 WebUI.click(findTestObject('a_Sepetime Git'))
 
-WebUI.delay(2)
+WebUI.delay(3)
 
 WebUI.closeBrowser()
 
