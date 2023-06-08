@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser(Url)
 
-WebUI.delay(2)
+WebUI.delay(3)
 
 WebUI.closeBrowser()
 
